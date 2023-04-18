@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9301818992097891997,Safeway,"950 las gallinas ave, san rafael, ca 94903",safeway,4.0,1013,(415) 479-6111,local.safeway.com,safeway,Safeway,38.0084526,-122.5483301,True,True,Grocery,Bakery,,,,,
+CID:1420039292431449528,Safeway Bakery,"950 las gallinas ave, san rafael, ca 94903",safeway,0.0,0,(415) 479-6111,local.safeway.com,safeway,Safeway,38.0084799,-122.5483222,True,False,Bakery,,,,,,

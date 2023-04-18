@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:17995389868686114697,Safeway,"720 mangrove ave, chico, ca 95926",safeway,4.3,1660,(530) 895-6300,local.safeway.com,safeway,Safeway,39.7365932,-121.8335955,True,True,Grocery,Bakery,,,,,
+CID:1834330546552384719,Safeway Bakery,"720 mangrove ave, chico, ca 95926",safeway,0.0,0,(530) 895-6300,local.safeway.com,safeway,Safeway,39.7365932,-121.8335955,True,False,Bakery,,,,,,

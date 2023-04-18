@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9086144474484919629,Safeway,"1814 19th st, sacramento, ca 95811",safeway,4.2,3338,(916) 492-9967,local.safeway.com,safeway,Safeway,38.5679278,-121.4860899,True,True,Grocery,Bakery,,,,,
+CID:14897152958412068760,Safeway Bakery,"1814 19th st, sacramento, ca 95811",safeway,2.3,3,(916) 492-9967,local.safeway.com,safeway,Safeway,38.5678641,-121.4860019,True,False,Bakery,,,,,,

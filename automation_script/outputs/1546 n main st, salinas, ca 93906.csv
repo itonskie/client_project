@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:10665057435670037857,Safeway,"1546 n main st, salinas, ca 93906",safeway,4.3,1070,(831) 442-7500,local.safeway.com,safeway,Safeway,36.7126823,-121.6522121,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:8425389987353295934,Safeway Liquor,"1546 n main st, salinas, ca 93906",safeway,0.0,0,,safeway.com,safeway,Safeway,36.7126832,-121.6522178,True,False,"Beer, Wine & Spirits",,,,,,

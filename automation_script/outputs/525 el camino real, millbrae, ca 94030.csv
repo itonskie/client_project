@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1158328826993782411,Safeway,"525 el camino real, millbrae, ca 94030",safeway,4.2,1860,(650) 652-3416,local.safeway.com,safeway,Safeway,37.6033699,-122.3942131,True,True,Grocery,Bakery,,,,,
+CID:5408577198307040379,Safeway Bakery,"525 el camino real, millbrae, ca 94030",safeway,0.0,0,(650) 652-3416,local.safeway.com,safeway,Safeway,37.6033834,-122.3942501,True,False,Bakery,,,,,,

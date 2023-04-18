@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4601201595445734119,Safeway,"2227 s shore center, alameda, ca 94501",safeway,4.2,1574,(510) 863-9000,local.safeway.com,safeway,Safeway,37.7572555,-122.2508336,True,True,Grocery,Bakery,,,,,
+CID:6248343158894452564,Safeway Bakery,"2227 s shore center, alameda, ca 94501",safeway,0.0,1,(510) 863-9000,local.safeway.com,safeway,Safeway,37.7572388,-122.2508653,True,False,Bakery,,,,,,

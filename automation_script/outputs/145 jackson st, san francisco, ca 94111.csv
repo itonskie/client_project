@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13335627057992641335,Safeway,"145 jackson st, san francisco, ca 94111",safeway,4.0,1252,(415) 982-3112,local.safeway.com,safeway,Safeway,37.796899,-122.3986159,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:3401950317872929542,Safeway Liquor,"145 jackson st, san francisco, ca 94111",safeway,4.2,18,(415) 982-3112,safeway.com,safeway,Safeway,37.7968463,-122.3986514,True,False,"Beer, Wine & Spirits",,,,,,

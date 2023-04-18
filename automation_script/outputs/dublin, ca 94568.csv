@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12337976815102428173,Safeway Liquor,"dublin, ca 94568",safeway,4.7,3,,safeway.com,safeway,Safeway,37.7063336,-121.9270507,True,True,"Beer, Wine & Spirits",,,,,,
+CID:9616292817344133052,Safeway Liquor,"dublin, ca 94568",safeway,5.0,1,,safeway.com,safeway,Safeway,37.7066995,-121.8741391,True,False,"Beer, Wine & Spirits",,,,,,

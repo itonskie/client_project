@@ -1,0 +1,5 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:6817070698904497434,Safeway,"639 s bernardo ave, sunnyvale, ca 94087",safeway,4.2,1190,(408) 732-5900,local.safeway.com,safeway,Safeway,37.3727912,-122.0581172,True,True,Grocery,Bakery,"Beer, Wine & Spirits",Pharmacy,,,
+CID:5122952700554021581,Safeway Liquor,"639 s bernardo ave, sunnyvale, ca 94087",safeway,5.0,1,,safeway.com,safeway,Safeway,37.3726748,-122.0582377,True,False,"Beer, Wine & Spirits",,,,,,
+CID:7212407830226293283,Safeway Bakery,"639 s bernardo ave, sunnyvale, ca 94087",safeway,0.0,0,(408) 732-5900,local.safeway.com,safeway,Safeway,37.3729675,-122.0580874,True,False,Bakery,,,,,,
+CID:15874294631995407251,"Dominick W. Tse, RPh","639 s bernardo ave, sunnyvale, ca 94087",safeway,0.0,0,(408) 732-5902,safeway.com,safeway,Safeway,37.3729232,-122.0579595,True,False,Pharmacy,,,,,,

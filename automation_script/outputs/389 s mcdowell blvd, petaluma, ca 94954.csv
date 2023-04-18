@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:15511394782996904486,Safeway,"389 s mcdowell blvd, petaluma, ca 94954",safeway,4.1,895,(707) 766-9097,local.safeway.com,safeway,Safeway,38.2490353,-122.6216685,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:7878890063248961447,Safeway Liquor,"389 s mcdowell blvd, petaluma, ca 94954",safeway,4.0,1,,safeway.com,safeway,Safeway,38.2493164,-122.6218491,True,False,"Beer, Wine & Spirits",,,,,,
+CID:9166514417333549171,Safeway Bakery,"389 s mcdowell blvd, petaluma, ca 94954",safeway,0.0,0,(707) 766-9097,local.safeway.com,safeway,Safeway,38.2491273,-122.6219167,True,False,Bakery,,,,,,

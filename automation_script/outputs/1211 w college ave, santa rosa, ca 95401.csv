@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:17557426961712171071,Safeway,"1211 w college ave, santa rosa, ca 95401",safeway,4.2,1251,(707) 546-6877,local.safeway.com,safeway,Safeway,38.446687,-122.7415005,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:17563306206718323276,Safeway Liquor,"1211 w college ave, santa rosa, ca 95401",safeway,4.0,6,(707) 546-6877,safeway.com,safeway,Safeway,38.4466261,-122.7415245,True,False,"Beer, Wine & Spirits",,,,,,
+CID:12701873552773448659,Safeway Bakery,"1211 w college ave, santa rosa, ca 95401",safeway,0.0,0,(707) 546-6877,local.safeway.com,safeway,Safeway,38.4465717,-122.7414714,True,False,Bakery,,,,,,

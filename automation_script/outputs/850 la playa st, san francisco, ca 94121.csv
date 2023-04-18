@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2015167558186968044,Safeway,"850 la playa st, san francisco, ca 94121",safeway,4.0,1730,(415) 387-4664,local.safeway.com,safeway,Safeway,37.7725138,-122.5094765,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:280059678546239691,Safeway Liquor,"850 la playa st, san francisco, ca 94121",safeway,5.0,1,,safeway.com,safeway,Safeway,37.7725837,-122.5094277,True,False,"Beer, Wine & Spirits",,,,,,
+CID:5633076333401939079,Safeway Bakery,"850 la playa st, san francisco, ca 94121",safeway,0.0,0,(415) 387-4664,local.safeway.com,safeway,Safeway,37.7725837,-122.5094277,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13235735440882527402,Safeway,"3383 bass lake rd, el dorado hills, ca 95762",safeway,4.5,245,(530) 313-4920,local.safeway.com,safeway,Safeway,38.6751702,-121.0282322,True,True,Grocery,Bakery,,,,,
+CID:8155478915022452247,Safeway Bakery,"3383 bass lake rd, el dorado hills, ca 95762",safeway,0.0,0,(530) 313-4920,local.safeway.com,safeway,Safeway,38.6751388,-121.0300976,True,False,Bakery,,,,,,

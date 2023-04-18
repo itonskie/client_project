@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4765757437801023956,Safeway,"5720 nave dr, novato, ca 94949",safeway,4.0,1082,(415) 881-9256,local.safeway.com,safeway,Safeway,38.0623833,-122.5322898,True,True,Grocery,Bakery,Cafe,,,,
+CID:517034855842433610,Signature Cafe,"5720 nave dr, novato, ca 94949",safeway,1.0,1,,,,Safeway,38.0623816,-122.5324625,True,False,Cafe,,,,,,
+CID:13779928238379561456,Safeway Bakery,"5720 nave dr, novato, ca 94949",safeway,0.0,0,(415) 881-9256,local.safeway.com,safeway,Safeway,38.062302,-122.5321069,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2918524568391085250,Safeway,"15 marina blvd, san francisco, ca 94123",safeway,4.2,2367,(415) 563-4946,local.safeway.com,safeway,Safeway,37.8044671,-122.4328651,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:14220197092082314965,Safeway Liquor,"15 marina blvd, san francisco, ca 94123",safeway,5.0,2367,(415) 563-4946,safeway.com,safeway,Safeway,37.8044652,-122.4328147,True,False,"Beer, Wine & Spirits",,,,,,
+CID:12397601923931653324,Safeway Bakery,"15 marina blvd, san francisco, ca 94123",safeway,0.0,0,(415) 563-4946,local.safeway.com,safeway,Safeway,37.8043948,-122.4328779,True,False,Bakery,,,,,,

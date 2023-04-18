@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:17933060884365543765,Safeway,"1799 marlow rd, santa rosa, ca 95401",safeway,4.1,1154,(707) 528-3062,local.safeway.com,safeway,Safeway,38.4520504,-122.7528692,True,True,Grocery,Bakery,,,,,
+CID:4388111494344524362,Safeway Bakery,"1799 marlow rd, santa rosa, ca 95401",safeway,5.0,1,(707) 528-3062,local.safeway.com,safeway,Safeway,38.4520542,-122.752896,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:10195344710466953459,Safeway,"39100 argonaut way, fremont, ca 94538",safeway,4.0,1476,(510) 794-1666,local.safeway.com,safeway,Safeway,37.5453319,-121.9894383,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:2564937742488647827,Safeway Bakery.,"39100 argonaut way, fremont, ca 94538",safeway,2.8,4,(510) 794-1666,local.safeway.com,safeway,Safeway,37.5456283,-121.9896292,True,False,Bakery,,,,,,
+CID:3912638694362990274,Safeway Liquor,"39100 argonaut way, fremont, ca 94538",safeway,3.3,3,,safeway.com,safeway,Safeway,37.5453607,-121.9895522,True,False,"Beer, Wine & Spirits",,,,,,

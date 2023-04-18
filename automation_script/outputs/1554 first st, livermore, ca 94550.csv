@@ -1,0 +1,5 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14719141530140762682,Safeway,"1554 first st, livermore, ca 94550",safeway,4.1,991,(925) 455-5667,local.safeway.com,safeway,Safeway,37.6804056,-121.7771987,True,True,Supermarket,Bakery,"Beer, Wine & Spirits",Pharmacy,,,
+CID:15425723242757269475,Safeway Liquor,"1554 first st, livermore, ca 94550",safeway,5.0,2,,safeway.com,safeway,Safeway,37.6804358,-121.777421,True,False,"Beer, Wine & Spirits",,,,,,
+CID:13159780905136540191,Safeway Bakery,"1554 first st, livermore, ca 94550",safeway,0.0,0,(925) 455-5667,local.safeway.com,safeway,Safeway,37.6804358,-121.777421,True,False,Bakery,,,,,,
+CID:1151989263352298565,Safeway Pharmacy,"1554 first st, livermore, ca 94550",safeway,0.0,0,(925) 455-5667,local.safeway.com,safeway,Safeway,37.6802158,-121.777172,True,False,Pharmacy,,,,,,

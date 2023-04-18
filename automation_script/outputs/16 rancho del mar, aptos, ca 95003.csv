@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5577466003518161250,Safeway,"16 rancho del mar, aptos, ca 95003",safeway,3.8,963,(831) 688-2775,local.safeway.com,safeway,Safeway,36.9786757,-121.908549,True,True,Grocery,Bakery,,,,,
+CID:1484775636313591341,Safeway Bakery,"16 rancho del mar, aptos, ca 95003",safeway,4.0,1,(831) 688-2775,local.safeway.com,safeway,Safeway,36.978599,-121.9084639,True,False,Bakery,,,,,,

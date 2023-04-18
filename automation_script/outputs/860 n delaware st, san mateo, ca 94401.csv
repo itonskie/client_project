@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12645925887867119085,Safeway,"860 n delaware st, san mateo, ca 94401",safeway,4.1,422,(650) 347-2704,local.safeway.com,safeway,Safeway,37.5803669,-122.332824,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:8977971652904643359,Safeway Liquor,"860 n delaware st, san mateo, ca 94401",safeway,4.7,3,(650) 341-0374,safeway.com,safeway,Safeway,37.5803929,-122.3328059,True,False,"Beer, Wine & Spirits",,,,,,

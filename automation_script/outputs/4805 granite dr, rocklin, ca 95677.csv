@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7419975282977222926,Safeway,"4805 granite dr, rocklin, ca 95677",safeway,4.3,629,(916) 624-0669,local.safeway.com,safeway,Safeway,38.7900848,-121.2222202,True,True,Grocery,Bakery,,,,,
+CID:13697508989471895235,Safeway Bakery,"4805 granite dr, rocklin, ca 95677",safeway,0.0,0,(916) 624-0669,local.safeway.com,safeway,Safeway,38.7900339,-121.2221241,True,False,Bakery,,,,,,

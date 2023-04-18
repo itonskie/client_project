@@ -1,0 +1,5 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14683517222267890905,Safeway,"2300 16th st unit 203, san francisco, ca 94103",safeway,3.9,2175,(415) 575-1120,local.safeway.com,safeway,Safeway,37.7669091,-122.4093346,True,True,Grocery,Bakery,Deli,"Beer, Wine & Spirits",,,
+CID:4087755421319763285,Safeway Deli,"2300 16th st unit 203, san francisco, ca 94103",safeway,4.2,32,(415) 575-1120,local.safeway.com,safeway,Safeway,37.7669093,-122.4093309,True,False,Deli,,,,,,
+CID:8603114341931430993,Safeway Liquor,"2300 16th st unit 203, san francisco, ca 94103",safeway,5.0,1,(415) 575-1120,safeway.com,safeway,Safeway,37.7669088,-122.4093353,True,False,"Beer, Wine & Spirits",,,,,,
+CID:13700888791919101525,Safeway Bakery,"2300 16th st unit 203, san francisco, ca 94103",safeway,0.0,0,(415) 575-1120,local.safeway.com,safeway,Safeway,37.7669956,-122.4093844,True,False,Bakery,,,,,,

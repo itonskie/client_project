@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11083161452771570841,Safeway,"600 s broadway, walnut creek, ca 94596",safeway,3.8,830,(925) 935-9205,local.safeway.com,safeway,Safeway,37.898108,-122.0566721,True,True,Grocery,Bakery,,,,,
+CID:17443683158287360064,Safeway Bakery,"600 s broadway, walnut creek, ca 94596",safeway,0.0,0,(925) 935-9205,safeway.com,safeway,Safeway,37.8979446,-122.0566559,True,False,Bakery,,,,,,

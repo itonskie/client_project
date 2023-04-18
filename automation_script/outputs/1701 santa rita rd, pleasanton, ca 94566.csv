@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5216574018817987435,Safeway,"1701 santa rita rd, pleasanton, ca 94566",safeway,4.2,903,(925) 417-5530,local.safeway.com,safeway,Safeway,37.6748422,-121.8744057,True,True,Supermarket,Bakery,,,,,
+CID:10009857709690102479,Safeway Bakery,"1701 santa rita rd, pleasanton, ca 94566",safeway,0.0,0,(925) 417-5530,local.safeway.com,safeway,Safeway,37.6749177,-121.8745838,True,False,Bakery,,,,,,

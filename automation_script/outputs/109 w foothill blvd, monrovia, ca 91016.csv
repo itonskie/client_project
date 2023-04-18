@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12558948405710384507,Photoworks By Rick,"109 w foothill blvd, monrovia, ca 91016",photoworksbyrick,4.3,25,(626) 303-5555,photoworksbyrick.com,photoworksbyrick,Studio 55,34.1515409,-118.0015445,True,True,Photography Service,Frame,Printing & Copy Shop,,,,
+CID:5271810975571173676,Studio 55,"109 w foothill blvd, monrovia, ca 91016",photoworksbyrick,4.7,3,(626) 303-5555,photoworksbyrick.com,photoworksbyrick,Studio 55,34.151575,-118.001537,True,False,Photography Service,Passport & Visa Service,,,,,

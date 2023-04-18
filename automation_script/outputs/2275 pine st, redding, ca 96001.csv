@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:3301759958230889424,Safeway,"2275 pine st, redding, ca 96001",safeway,4.0,1973,(530) 247-3030,local.safeway.com,safeway,Safeway,40.5766166,-122.3849524,True,True,Grocery,Bakery,,,,,
+CID:14375112106904012713,Safeway Bakery,"2275 pine st, redding, ca 96001",safeway,5.0,1,(530) 247-3030,local.safeway.com,safeway,Safeway,40.5766723,-122.3848642,True,False,Bakery,,,,,,

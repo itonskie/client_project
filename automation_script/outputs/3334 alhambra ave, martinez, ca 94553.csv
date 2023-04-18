@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7370942325934129481,Safeway,"3334 alhambra ave, martinez, ca 94553",safeway,4.0,909,(925) 229-0212,local.safeway.com,safeway,Safeway,38.0007472,-122.1330303,True,True,Supermarket,"Beer, Wine & Spirits",,,,,
+CID:16045499278207247031,Safeway grocery store,"3334 alhambra ave, martinez, ca 94553",safeway,4.3,181,(925) 229-0212,safeway.com,safeway,Safeway,38.0006883,-122.1328414,True,False,"Beer, Wine & Spirits",Supermarket,,,,,

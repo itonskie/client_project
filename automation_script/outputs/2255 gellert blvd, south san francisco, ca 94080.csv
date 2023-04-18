@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5220839507871387291,Safeway,"2255 gellert blvd, south san francisco, ca 94080",safeway,4.2,1463,(650) 588-9005,local.safeway.com,safeway,Safeway,37.6465865,-122.4520338,True,True,Grocery,Bakery,,,,,
+CID:11770715914857836714,Safeway Bakery,"2255 gellert blvd, south san francisco, ca 94080",safeway,4.7,4,(650) 588-9005,local.safeway.com,safeway,Safeway,37.6469727,-122.4521817,True,False,Bakery,,,,,,

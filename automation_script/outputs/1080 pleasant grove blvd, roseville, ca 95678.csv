@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16733159531290089982,Safeway,"1080 pleasant grove blvd, roseville, ca 95678",safeway,4.3,1004,(916) 783-2119,local.safeway.com,safeway,Safeway,38.7773143,-121.2916206,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:2783716997025693773,Safeway Liquor,"1080 pleasant grove blvd, roseville, ca 95678",safeway,2.5,2,,safeway.com,safeway,Safeway,38.7777022,-121.2916536,True,False,"Beer, Wine & Spirits",,,,,,
+CID:1086958794394450361,Safeway Bakery,"1080 pleasant grove blvd, roseville, ca 95678",safeway,0.0,1,(916) 783-2119,local.safeway.com,safeway,Safeway,38.7768414,-121.2914698,True,False,Bakery,,,,,,

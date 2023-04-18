@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14699602581318140702,Safeway,"4040 manzanita ave, carmichael, ca 95608",safeway,4.1,1989,(916) 481-2005,local.safeway.com,safeway,Safeway,38.6381291,-121.3263428,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:17941148706696183561,Safeway Liquor,"4040 manzanita ave, carmichael, ca 95608",safeway,4.0,6,,safeway.com,safeway,Safeway,38.6384386,-121.3262458,True,False,"Beer, Wine & Spirits",,,,,,
+CID:8751444984234169872,Safeway Bakery,"4040 manzanita ave, carmichael, ca 95608",safeway,0.0,0,(916) 481-2005,local.safeway.com,safeway,Safeway,38.6384479,-121.326026,True,False,Bakery,,,,,,

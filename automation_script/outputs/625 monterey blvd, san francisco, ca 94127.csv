@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8439807143000529975,Safeway,"625 monterey blvd, san francisco, ca 94127",safeway,3.9,641,(415) 586-2421,local.safeway.com,safeway,Safeway,37.7312957,-122.4499683,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:8849924938300440871,Safeway Liquor,"625 monterey blvd, san francisco, ca 94127",safeway,3.8,10,,safeway.com,safeway,Safeway,37.7312905,-122.4501739,True,False,"Beer, Wine & Spirits",,,,,,

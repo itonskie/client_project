@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:6379109587073356008,Safeway,"4950 mission st, san francisco, ca 94112",safeway,3.9,1760,(415) 587-7200,local.safeway.com,safeway,Safeway,37.7198782,-122.4388601,True,True,Grocery,Bakery,,,,,
+CID:3249187933523450054,Safeway Bakery,"4950 mission st, san francisco, ca 94112",safeway,4.1,20,(415) 587-7200,local.safeway.com,safeway,Safeway,37.7198145,-122.4386995,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9126946661181196945,Pismo Beach Dentistry,"1090 dolliver st, pismo beach, ca 93449",pismodental,0.0,2,(805) 773-2500,pismodental.com,pismodental,Pismo Beach Dentistry,35.1431491,-120.6432509,True,True,Dentist,,,,,,
+CID:12711206046064416147,Pismo Beach Dentistry,"1090 dolliver st, pismo beach, ca 93449",pismodental,5.0,2,(805) 773-2500,pismodental.com,pismodental,Pismo Beach Dentistry,35.1431287,-120.6432506,True,False,Dentist,,,,,,
+CID:3365263935090476122,"John Wakeman, D.D.S.","1090 dolliver st, pismo beach, ca 93449",pismodental,0.0,1,(805) 773-2500,pismodental.com,pismodental,Pismo Beach Dentistry,35.1431288,-120.6432507,True,False,Dentist,,,,,,

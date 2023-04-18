@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:10690825131633197972,Safeway,"2558 berryessa rd, san jose, ca 95132",safeway,3.8,1728,(408) 272-2287,local.safeway.com,safeway,Safeway,37.3881422,-121.8578578,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:6660975400215460569,Safeway Liquor,"2558 berryessa rd, san jose, ca 95132",safeway,3.8,12,(408) 272-2287,safeway.com,safeway,Safeway,37.3881736,-121.8577986,True,False,"Beer, Wine & Spirits",,,,,,
+CID:952997186740072935,Safeway Bakery,"2558 berryessa rd, san jose, ca 95132",safeway,0.0,0,(408) 272-2287,local.safeway.com,safeway,Safeway,37.3880485,-121.8577732,True,False,Bakery,,,,,,

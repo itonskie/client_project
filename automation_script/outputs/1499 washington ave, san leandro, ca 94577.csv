@@ -1,0 +1,5 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13652785657741778585,Safeway,"1499 washington ave, san leandro, ca 94577",safeway,3.9,1436,(510) 895-2660,local.safeway.com,safeway,Safeway,37.7231371,-122.1561362,True,True,Grocery,Bakery,Cafe,"Beer, Wine & Spirits",,,
+CID:9711396524825229768,Safeway Liquor,"1499 washington ave, san leandro, ca 94577",safeway,5.0,1,(510) 895-2660,safeway.com,safeway,Safeway,37.7230959,-122.1561369,True,False,"Beer, Wine & Spirits",,,,,,
+CID:4718306310079392094,Signature Cafe,"1499 washington ave, san leandro, ca 94577",safeway,0.0,0,(510) 895-2660,safeway.com,safeway,Safeway,37.7229544,-122.1557537,True,False,Cafe,,,,,,
+CID:2341340300613454021,Safeway Bakery,"1499 washington ave, san leandro, ca 94577",safeway,0.0,0,(510) 895-2660,local.safeway.com,safeway,Safeway,37.7247838,-122.1571309,True,False,Bakery,,,,,,

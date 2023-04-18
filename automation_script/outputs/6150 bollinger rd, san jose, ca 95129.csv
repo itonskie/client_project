@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1159005404410470203,Safeway,"6150 bollinger rd, san jose, ca 95129",safeway,4.1,763,(408) 257-3070,local.safeway.com,safeway,Safeway,37.3096838,-122.0119149,True,True,Grocery,Bakery,,,,,
+CID:11086965204609388609,Safeway Bakery,"6150 bollinger rd, san jose, ca 95129",safeway,1.0,1,(408) 257-3070,local.safeway.com,safeway,Safeway,37.3096604,-122.0118184,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7056333641740183377,Safeway,"325 sharon park dr, menlo park, ca 94025",safeway,4.0,509,(650) 854-3056,local.safeway.com,safeway,Safeway,37.4234422,-122.1970037,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:7138035946659385570,Safeway Liquor,"325 sharon park dr, menlo park, ca 94025",safeway,3.0,2,,safeway.com,safeway,Safeway,37.4234496,-122.1971346,True,False,"Beer, Wine & Spirits",,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14568980942726892873,Safeway,"46848 mission blvd, fremont, ca 94539",safeway,4.0,1289,(510) 497-1003,local.safeway.com,safeway,Safeway,37.4896436,-121.9274557,True,True,Grocery,Bakery,,,,,
+CID:17161409418025196392,Safeway Bakery,"46848 mission blvd, fremont, ca 94539",safeway,0.0,0,(510) 497-1003,local.safeway.com,safeway,Safeway,37.4896649,-121.9275781,True,False,Bakery,,,,,,

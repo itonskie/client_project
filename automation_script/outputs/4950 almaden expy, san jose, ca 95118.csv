@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8890278200674237574,Safeway,"4950 almaden expy, san jose, ca 95118",safeway,4.1,1403,(408) 267-1200,local.safeway.com,safeway,Safeway,37.2601835,-121.8744321,True,True,Grocery,Bakery,,,,,
+CID:8248597294182720530,Safeway Bakery,"4950 almaden expy, san jose, ca 95118",safeway,0.0,0,(408) 267-1200,local.safeway.com,safeway,Safeway,37.2603624,-121.8745227,True,False,Bakery,,,,,,

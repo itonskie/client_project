@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:3269643434124139898,Safeway,"1663 branham ln, san jose, ca 95118",safeway,4.2,1111,(408) 267-0550,local.safeway.com,safeway,Safeway,37.2530039,-121.9082584,True,True,Grocery,Bakery,,,,,
+CID:7902933552383779532,Safeway Bakery,"1663 branham ln, san jose, ca 95118",safeway,3.0,1,(408) 267-0550,local.safeway.com,safeway,Safeway,37.2531262,-121.9083628,True,False,Bakery,,,,,,

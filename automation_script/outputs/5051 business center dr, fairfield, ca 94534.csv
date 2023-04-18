@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:504543439085984150,Safeway,"5051 business center dr, fairfield, ca 94534",safeway,4.1,897,(707) 863-4160,local.safeway.com,safeway,Safeway,38.2168383,-122.1413456,True,True,Grocery,Bakery,,,,,
+CID:15109159255519171033,Safeway Bakery,"5051 business center dr, fairfield, ca 94534",safeway,0.0,0,(707) 863-4160,local.safeway.com,safeway,Safeway,38.2168264,-122.1410736,True,False,Bakery,,,,,,

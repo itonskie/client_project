@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:6013025431162191914,Safeway,"5021 laguna blvd, elk grove, ca 95758",safeway,4.2,1676,(916) 691-3770,local.safeway.com,safeway,Safeway,38.4242856,-121.4465315,True,True,Grocery,Bakery,,,,,
+CID:7091433376425341578,Safeway Bakery,"5021 laguna blvd, elk grove, ca 95758",safeway,0.0,1,(916) 691-3770,local.safeway.com,safeway,Safeway,38.4242462,-121.4465999,True,False,Bakery,,,,,,

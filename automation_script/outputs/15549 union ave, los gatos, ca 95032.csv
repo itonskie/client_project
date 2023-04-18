@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16236341379325235765,Safeway,"15549 union ave, los gatos, ca 95032",safeway,4.2,748,(408) 559-5750,local.safeway.com,safeway,Safeway,37.2424439,-121.9325905,True,True,Grocery,Bakery,,,,,
+CID:13261829976579927949,Safeway Bakery,"15549 union ave, los gatos, ca 95032",safeway,1.0,1,(408) 559-5750,local.safeway.com,safeway,Safeway,37.2424233,-121.932645,True,False,Bakery,,,,,,

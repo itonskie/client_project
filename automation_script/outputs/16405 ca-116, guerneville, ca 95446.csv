@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1336985295962573697,Safeway,"16405 ca-116, guerneville, ca 95446",safeway,3.7,899,(707) 869-9433,local.safeway.com,safeway,Safeway,38.5008095,-123.0007877,True,True,Grocery,Bakery,,,,,
+CID:7039829746919516170,Safeway Bakery,"16405 ca-116, guerneville, ca 95446",safeway,0.0,0,(707) 869-9433,local.safeway.com,safeway,Safeway,38.5008684,-123.0008869,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:255913410004249925,Safeway,"100 calistoga rd, santa rosa, ca 95409",safeway,4.0,665,(707) 539-1711,local.safeway.com,safeway,Safeway,38.4656483,-122.6516644,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:5888709059732907356,Safeway Liquor,"100 calistoga rd, santa rosa, ca 95409",safeway,0.0,0,,safeway.com,safeway,Safeway,38.4656042,-122.6517054,True,False,"Beer, Wine & Spirits",,,,,,
+CID:14117097442655829593,Safeway Bakery,"100 calistoga rd, santa rosa, ca 95409",safeway,0.0,0,(707) 539-1711,local.safeway.com,safeway,Safeway,38.4656768,-122.6516753,True,False,Bakery,,,,,,

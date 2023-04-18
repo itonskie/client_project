@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14600018547109887737,Safeway,"710 bancroft rd, walnut creek, ca 94598",safeway,4.2,666,(925) 937-8537,local.safeway.com,safeway,Safeway,37.9281981,-122.0393425,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:1344204029385238149,Safeway Bakery,"710 bancroft rd, walnut creek, ca 94598",safeway,0.0,2,(925) 937-8537,local.safeway.com,safeway,Safeway,37.928063,-122.0394369,True,False,Bakery,,,,,,
+CID:2026132735301981663,Safeway Liquor,"710 bancroft rd, walnut creek, ca 94598",safeway,0.0,1,,safeway.com,safeway,Safeway,37.9282435,-122.0392869,True,False,"Beer, Wine & Spirits",,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:10085294217465722624,Safeway,"11050 bollinger canyon rd, san ramon, ca 94582",safeway,4.3,890,(925) 359-2001,local.safeway.com,safeway,Safeway,37.774864,-121.922063,True,True,Grocery,Bakery,,,,,
+CID:2934641370259515971,Safeway Bakery,"11050 bollinger canyon rd, san ramon, ca 94582",safeway,5.0,1,(925) 359-2001,local.safeway.com,safeway,Safeway,37.7746585,-121.9220258,True,False,Bakery,,,,,,

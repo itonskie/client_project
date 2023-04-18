@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11257369812147236704,Safeway,"1530 hamilton ave, san jose, ca 95125",safeway,4.3,1359,(408) 264-1523,local.safeway.com,safeway,Safeway,37.2932258,-121.9110373,True,True,Grocery,Bakery,,,,,
+CID:16580624114193712309,Safeway Bakery,"1530 hamilton ave, san jose, ca 95125",safeway,0.0,2,(408) 264-1523,local.safeway.com,safeway,Safeway,37.293167,-121.9109534,True,False,Bakery,,,,,,

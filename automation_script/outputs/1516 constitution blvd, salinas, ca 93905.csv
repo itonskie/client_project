@@ -1,0 +1,5 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13334605164112833005,Safeway,"1516 constitution blvd, salinas, ca 93905",safeway,4.4,954,(831) 444-3625,local.safeway.com,safeway,Safeway,36.6989148,-121.6205797,True,True,Grocery,Pharmacy,Bakery,,,,
+CID:16298672213580442743,Safeway Liquor Store,"1516 constitution blvd, salinas, ca 93905",safeway,4.2,27,(831) 444-3625,safeway.com,safeway,Safeway,36.6988107,-121.6205549,True,False,Grocery,,,,,,
+CID:8798454792155974854,Safeway Bakery,"1516 constitution blvd, salinas, ca 93905",safeway,0.0,1,(831) 444-3625,local.safeway.com,safeway,Safeway,36.6988984,-121.6205775,True,False,Bakery,,,,,,
+CID:1337795194124034434,"Patrick J. McLarney, Pharm","1516 constitution blvd, salinas, ca 93905",safeway,0.0,0,(831) 444-3630,safeway.com,safeway,Safeway,36.6988107,-121.6205549,True,False,Pharmacy,,,,,,

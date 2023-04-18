@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5694018965524936749,Safeway,"3955 missouri flat rd, placerville, ca 95667",safeway,4.1,1443,(530) 295-2972,local.safeway.com,safeway,Safeway,38.7143978,-120.8396697,True,True,Grocery,Bakery,,,,,
+CID:2868951608292256638,Safeway Bakery,"3955 missouri flat rd, placerville, ca 95667",safeway,0.0,0,(530) 295-2972,local.safeway.com,safeway,Safeway,38.7134483,-120.8396334,True,False,Bakery,,,,,,

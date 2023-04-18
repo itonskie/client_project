@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7023912206341665366,Safeway,"122 robles way, vallejo, ca 94591",safeway,3.9,1256,(707) 554-4467,local.safeway.com,safeway,Safeway,38.0845485,-122.2102303,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:17416589614799016916,Safeway Liquor,"122 robles way, vallejo, ca 94591",safeway,4.0,3,(707) 554-4467,safeway.com,safeway,Safeway,38.0844546,-122.2102183,True,False,"Beer, Wine & Spirits",,,,,,
+CID:17155365564665258021,Safeway Bakery,"122 robles way, vallejo, ca 94591",safeway,0.0,0,(707) 554-4467,local.safeway.com,safeway,Safeway,38.0845093,-122.2101652,True,False,Bakery,,,,,,

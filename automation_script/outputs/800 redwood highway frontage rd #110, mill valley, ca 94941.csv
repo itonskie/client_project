@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12590354631222009530,Safeway,"800 redwood highway frontage rd #110, mill valley, ca 94941",safeway,4.2,728,(415) 360-9016,local.safeway.com,safeway,Safeway,37.8992465,-122.5148405,True,True,Grocery,Bakery,,,,,
+CID:7934964816497089332,Safeway Bakery,"800 redwood highway frontage rd #110, mill valley, ca 94941",safeway,0.0,0,(415) 360-9016,local.safeway.com,safeway,Safeway,37.8983494,-122.5148086,True,False,Bakery,,,,,,

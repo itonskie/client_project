@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9669147922435647583,Safeway,"3071 stevens creek blvd, santa clara, ca 95050",safeway,3.8,849,(408) 248-3305,local.safeway.com,safeway,Safeway,37.3241784,-121.9495356,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:4217096500321902687,Safeway Liquor,"3071 stevens creek blvd, santa clara, ca 95050",safeway,3.0,1,(408) 248-3305,safeway.com,safeway,Safeway,37.3242353,-121.9495599,True,False,"Beer, Wine & Spirits",,,,,,

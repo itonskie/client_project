@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8381974689213779791,Safeway,"4495 first st, livermore, ca 94551",safeway,4.2,1072,(925) 455-2520,local.safeway.com,safeway,Safeway,37.6951811,-121.7428648,True,True,Grocery,Bakery,,,,,
+CID:1161023583137542145,Safeway Bakery,"4495 first st, livermore, ca 94551",safeway,0.0,0,(925) 455-2520,local.safeway.com,safeway,Safeway,37.6956962,-121.742964,True,False,Bakery,,,,,,

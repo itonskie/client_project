@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16191248275989879018,Safeway Liquor,"pacifica, ca 94044",safeway,5.0,3,,safeway.com,safeway,Safeway,37.6501883,-122.4919204,True,True,"Beer, Wine & Spirits",,,,,,
+CID:9555903226011921654,Safeway Liquor,"pacifica, ca 94044",safeway,4.0,1,,safeway.com,safeway,Safeway,37.5944116,-122.5033018,True,False,"Beer, Wine & Spirits",,,,,,

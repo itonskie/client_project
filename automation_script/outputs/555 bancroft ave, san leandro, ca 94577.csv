@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1005590636115815493,Safeway,"555 bancroft ave, san leandro, ca 94577",safeway,4.0,1277,(510) 632-2949,local.safeway.com,safeway,Safeway,37.7343974,-122.1522505,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:8486033503584592221,Safeway Liquor,"555 bancroft ave, san leandro, ca 94577",safeway,4.4,5,,safeway.com,safeway,Safeway,37.7343818,-122.1524331,True,False,"Beer, Wine & Spirits",,,,,,

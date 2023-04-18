@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11291211367471020335,Safeway,"17539 vierra canyon rd, prunedale, ca 93907",safeway,4.2,940,(831) 663-6702,local.safeway.com,safeway,Safeway,36.7936053,-121.6658793,True,True,Grocery,Bakery,,,,,
+CID:5784077369607456007,Safeway Bakery,"17539 vierra canyon rd, prunedale, ca 93907",safeway,4.0,1,(831) 663-6702,local.safeway.com,safeway,Safeway,36.7936036,-121.6658913,True,False,Bakery,,,,,,

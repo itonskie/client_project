@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12859405750879265558,Safeway,"8640 sierra college blvd, roseville, ca 95661",safeway,4.4,865,(916) 783-2225,local.safeway.com,safeway,Safeway,38.7419085,-121.228556,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:4665622822405584658,Safeway Bakery,"8640 sierra college blvd, roseville, ca 95661",safeway,0.0,0,(916) 783-2225,local.safeway.com,safeway,Safeway,38.7419037,-121.2284747,True,False,Bakery,,,,,,
+CID:12778189471906238160,Safeway Liquor,"8640 sierra college blvd, roseville, ca 95661",safeway,0.0,0,,safeway.com,safeway,Safeway,38.7420936,-121.2285124,True,False,"Beer, Wine & Spirits",,,,,,

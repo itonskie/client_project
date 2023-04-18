@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:45639192018993175,Safeway,"1355 moraga way, moraga, ca 94556",safeway,3.9,414,(925) 376-9492,local.safeway.com,safeway,Safeway,37.8362968,-122.1285358,True,True,Grocery,Bakery,,,,,
+CID:13745210555326367944,Safeway Bakery,"1355 moraga way, moraga, ca 94556",safeway,0.0,0,(925) 376-9492,local.safeway.com,safeway,Safeway,37.8363493,-122.1284472,True,False,Bakery,,,,,,

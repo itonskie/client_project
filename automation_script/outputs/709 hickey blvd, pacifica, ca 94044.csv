@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5930348267235928694,Safeway,"709 hickey blvd, pacifica, ca 94044",safeway,4.1,551,(650) 290-5014,local.safeway.com,safeway,Safeway,37.6610701,-122.4776216,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:565489528329395106,Safeway Bakery,"709 hickey blvd, pacifica, ca 94044",safeway,0.0,0,(650) 290-5014,local.safeway.com,safeway,Safeway,37.6610102,-122.477594,True,False,Bakery,,,,,,
+CID:4115135903605739621,Safeway Liquor,"709 hickey blvd, pacifica, ca 94044",safeway,0.0,0,,safeway.com,safeway,Safeway,37.6611593,-122.477594,True,False,"Beer, Wine & Spirits",,,,,,

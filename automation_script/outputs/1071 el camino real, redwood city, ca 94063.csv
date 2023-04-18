@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11514662768230892811,Safeway,"1071 el camino real, redwood city, ca 94063",safeway,4.0,1541,(650) 306-1900,local.safeway.com,safeway,Safeway,37.4846345,-122.23045,True,True,Grocery,Bakery,,,,,
+CID:868564944801269616,Safeway Bakery,"1071 el camino real, redwood city, ca 94063",safeway,0.0,0,(650) 306-1900,local.safeway.com,safeway,Safeway,37.4846001,-122.2302014,True,False,Bakery,,,,,,

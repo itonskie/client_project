@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9408393399257306933,Safeway,"2449 w kettleman ln, lodi, ca 95242",safeway,4.3,865,(209) 367-7875,local.safeway.com,safeway,Safeway,38.1176875,-121.3057611,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:8154467761551943435,Safeway Liquor,"2449 w kettleman ln, lodi, ca 95242",safeway,5.0,1,,safeway.com,safeway,Safeway,38.1177621,-121.305727,True,False,"Beer, Wine & Spirits",,,,,,
+CID:13353503639598264941,Safeway Bakery,"2449 w kettleman ln, lodi, ca 95242",safeway,1.0,1,(209) 367-7875,local.safeway.com,safeway,Safeway,38.1173922,-121.3057767,True,False,Bakery,,,,,,

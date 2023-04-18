@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:6812347621423097129,Safeway,"1300 w san carlos st, san jose, ca 95126",safeway,4.0,2590,(408) 882-0999,local.safeway.com,safeway,Safeway,37.3228677,-121.9120594,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:13545316904409983628,Safeway Liquor,"1300 w san carlos st, san jose, ca 95126",safeway,3.7,11,(408) 882-0999,safeway.com,safeway,Safeway,37.3229455,-121.9119161,True,False,"Beer, Wine & Spirits",,,,,,
+CID:14703108559088739190,Safeway Bakery,"1300 w san carlos st, san jose, ca 95126",safeway,0.0,0,(408) 882-0999,local.safeway.com,safeway,Safeway,37.3228737,-121.9119314,True,False,Bakery,,,,,,

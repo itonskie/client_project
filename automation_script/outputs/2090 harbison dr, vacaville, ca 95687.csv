@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13601044381785240834,Safeway,"2090 harbison dr, vacaville, ca 95687",safeway,4.2,997,(707) 452-7277,local.safeway.com,safeway,Safeway,38.362203,-121.9617514,True,True,Grocery,Bakery,Cafe,,,,
+CID:3746952163351829890,Safeway Bakery,"2090 harbison dr, vacaville, ca 95687",safeway,0.0,0,(707) 452-7277,local.safeway.com,safeway,Safeway,38.3621522,-121.9617454,True,False,Bakery,,,,,,
+CID:14873596533907464174,Signature Cafe,"2090 harbison dr, vacaville, ca 95687",safeway,3.0,0,,,,Safeway,38.361818,-121.9619341,True,False,Cafe,,,,,,

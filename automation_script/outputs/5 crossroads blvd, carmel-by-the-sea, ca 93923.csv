@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5825712898392309857,Safeway,"5 crossroads blvd, carmel-by-the-sea, ca 93923",safeway,4.3,625,(831) 625-8820,local.safeway.com,safeway,Safeway,36.536432,-121.9111131,True,True,Grocery,Bakery,,,,,
+CID:8858230717899040120,Safeway Bakery,"5 crossroads blvd, carmel-by-the-sea, ca 93923",safeway,0.0,0,(831) 625-8820,local.safeway.com,safeway,Safeway,36.5364215,-121.9111312,True,False,Bakery,,,,,,

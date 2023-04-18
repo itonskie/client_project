@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4651575806379271287,Safeway,"1655 el camino real, san mateo, ca 94402",safeway,4.0,1548,(650) 341-0374,local.safeway.com,safeway,Safeway,37.5532143,-122.3136738,True,True,Grocery,Bakery,,,,,
+CID:2734910808600977420,Safeway Bakery,"1655 el camino real, san mateo, ca 94402",safeway,0.0,0,(650) 341-0374,local.safeway.com,safeway,Safeway,37.5535205,-122.3136808,True,False,Bakery,,,,,,

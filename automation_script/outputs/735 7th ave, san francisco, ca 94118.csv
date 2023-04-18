@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12341662394214738668,Safeway,"735 7th ave, san francisco, ca 94118",safeway,4.0,1204,(415) 683-4070,local.safeway.com,safeway,Safeway,37.774508,-122.4652621,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:4931575890431424344,Safeway Liquor,"735 7th ave, san francisco, ca 94118",safeway,4.8,10,(415) 683-4070,safeway.com,safeway,Safeway,37.774479,-122.4654406,True,False,"Beer, Wine & Spirits",,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:299855415845703368,Safeway,"2 camino sobrante, orinda, ca 94563",safeway,4.0,559,(925) 254-8792,local.safeway.com,safeway,Safeway,37.8838107,-122.1909871,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:11746165280867462854,Safeway Liquor,"2 camino sobrante, orinda, ca 94563",safeway,2.8,4,,safeway.com,safeway,Safeway,37.8837559,-122.1912659,True,False,"Beer, Wine & Spirits",,,,,,
+CID:5939498580530967668,Safeway Bakery,"2 camino sobrante, orinda, ca 94563",safeway,0.0,0,(925) 254-8792,local.safeway.com,safeway,Safeway,37.8837343,-122.1908347,True,False,Bakery,,,,,,

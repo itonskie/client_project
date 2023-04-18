@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11613917987081773243,Safeway,"2121 cowell blvd, davis, ca 95618",safeway,4.2,739,(530) 792-8500,local.safeway.com,safeway,Safeway,38.5413699,-121.725185,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:16000485510913522942,Safeway Liquor,"2121 cowell blvd, davis, ca 95618",safeway,2.0,1,,safeway.com,safeway,Safeway,38.5412112,-121.7251127,True,False,"Beer, Wine & Spirits",,,,,,
+CID:4823770463283487689,Safeway Bakery,"2121 cowell blvd, davis, ca 95618",safeway,0.0,0,(530) 792-8500,local.safeway.com,safeway,Safeway,38.5414584,-121.7252911,True,False,Bakery,,,,,,

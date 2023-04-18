@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4716896920794627862,Safeway,"6790 bernal ave, pleasanton, ca 94566",safeway,4.2,864,(925) 846-8644,local.safeway.com,safeway,Safeway,37.6560809,-121.899526,True,True,Grocery,Bakery,,,,,
+CID:4885031304654582079,Safeway Bakery,"6790 bernal ave, pleasanton, ca 94566",safeway,0.0,0,(925) 846-8644,local.safeway.com,safeway,Safeway,37.6560494,-121.8994836,True,False,Bakery,,,,,,

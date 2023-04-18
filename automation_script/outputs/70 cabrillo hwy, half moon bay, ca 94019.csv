@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4026970793690964576,Safeway,"70 cabrillo hwy, half moon bay, ca 94019",safeway,4.1,622,(650) 726-1143,local.safeway.com,safeway,Safeway,37.4692702,-122.4361387,True,True,Grocery,Bakery,,,,,
+CID:3139346220455829957,Safeway Bakery,"70 cabrillo hwy, half moon bay, ca 94019",safeway,0.0,1,(650) 726-1143,local.safeway.com,safeway,Safeway,37.4693081,-122.4359691,True,False,Bakery,,,,,,

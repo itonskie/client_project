@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:18047784804736350601,Safeway,"3540 mt diablo blvd, lafayette, ca 94549",safeway,4.0,621,(925) 283-0228,local.safeway.com,safeway,Safeway,37.8928578,-122.1194644,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:7146414092698020992,Safeway Liquor,"3540 mt diablo blvd, lafayette, ca 94549",safeway,5.0,1,,safeway.com,safeway,Safeway,37.8930274,-122.1197787,True,False,"Beer, Wine & Spirits",,,,,,

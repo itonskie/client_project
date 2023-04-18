@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:17516652112585771678,Safeway,"840 e dunne ave, morgan hill, ca 95037",safeway,4.3,728,(408) 776-8720,local.safeway.com,safeway,Safeway,37.128725,-121.6364193,True,True,Grocery,Bakery,,,,,
+CID:10619927439003579983,Safeway Bakery,"840 e dunne ave, morgan hill, ca 95037",safeway,0.0,0,(408) 776-8720,local.safeway.com,safeway,Safeway,37.1288501,-121.6362425,True,False,Bakery,,,,,,

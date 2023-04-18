@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:15995067402936103692,Safeway Liquor,"905 1st st, gilroy, ca 95020",safeway,4.0,1,,safeway.com,safeway,Safeway,37.014604,-121.5889059,True,True,"Beer, Wine & Spirits",Bakery,,,,,
+CID:11940984610245515494,Safeway Bakery,"905 1st st, gilroy, ca 95020",safeway,0.0,0,(408) 842-6446,local.safeway.com,safeway,Safeway,37.0155717,-121.5910346,True,False,Bakery,,,,,,

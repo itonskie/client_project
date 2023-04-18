@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1028473708894145887,Safeway,"2720 41st ave, soquel, ca 95073",safeway,4.0,1439,(831) 477-7212,local.safeway.com,safeway,Safeway,36.9861086,-121.963284,True,True,Grocery,Bakery,,,,,
+CID:122379397658902935,Safeway Bakery,"2720 41st ave, soquel, ca 95073",safeway,0.0,0,(831) 477-7212,local.safeway.com,safeway,Safeway,36.986292,-121.9633029,True,False,Bakery,,,,,,

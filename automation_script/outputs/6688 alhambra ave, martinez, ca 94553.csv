@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5129070830727231626,Safeway,"6688 alhambra ave, martinez, ca 94553",safeway,4.2,555,(925) 933-0540,local.safeway.com,safeway,Safeway,37.9579261,-122.0939505,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:1080655538121699612,Safeway Liquor,"6688 alhambra ave, martinez, ca 94553",safeway,4.8,5,,safeway.com,safeway,Safeway,37.9579116,-122.0939524,True,False,"Beer, Wine & Spirits",,,,,,
+CID:16902166848333425291,Safeway Bakery,"6688 alhambra ave, martinez, ca 94553",safeway,0.0,0,(925) 933-0540,local.safeway.com,safeway,Safeway,37.9579116,-122.0939524,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8759891092456885300,Safeway,"1026 hunt ave, st helena, ca 94574",safeway,4.0,483,(707) 968-3620,local.safeway.com,safeway,Safeway,38.5058887,-122.468106,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:3970415682219932499,Safeway Liquor,"1026 hunt ave, st helena, ca 94574",safeway,4.5,10,(707) 968-3620,safeway.com,safeway,Safeway,38.50599,-122.4682033,True,False,"Beer, Wine & Spirits",,,,,,
+CID:2115162889004939819,Safeway Bakery,"1026 hunt ave, st helena, ca 94574",safeway,0.0,0,(707) 968-3620,local.safeway.com,safeway,Safeway,38.5058606,-122.4680884,True,False,Bakery,,,,,,

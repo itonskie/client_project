@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8485743597958196890,Safeway Liquor,"chico, ca 95926",safeway,3.6,5,,safeway.com,safeway,Safeway,39.7364757,-121.8336447,True,True,"Beer, Wine & Spirits",,,,,,
+CID:18192495411834369289,Safeway Liquor,"chico, ca 95926",safeway,2.5,2,,safeway.com,safeway,Safeway,39.7320933,-121.8593814,True,False,"Beer, Wine & Spirits",,,,,,

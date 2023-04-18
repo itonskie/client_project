@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8272120608416507749,Safeway,"3365 deer valley rd, antioch, ca 94531",safeway,4.1,1351,(925) 706-4150,local.safeway.com,safeway,Safeway,37.9877653,-121.7840092,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:4692445560726700169,Safeway Liquor,"3365 deer valley rd, antioch, ca 94531",safeway,4.5,4,(925) 706-4150,safeway.com,safeway,Safeway,37.9879215,-121.7841718,True,False,"Beer, Wine & Spirits",,,,,,
+CID:18158135944410489534,Safeway Bakery,"3365 deer valley rd, antioch, ca 94531",safeway,5.0,2,(925) 706-4150,local.safeway.com,safeway,Safeway,37.9877352,-121.784186,True,False,Bakery,,,,,,

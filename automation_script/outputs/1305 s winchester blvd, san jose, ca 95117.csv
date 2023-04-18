@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1198154479459287691,Safeway,"1305 s winchester blvd, san jose, ca 95117",safeway,4.4,268,(408) 340-9258,local.safeway.com,safeway,Safeway,37.3008793,-121.9518388,True,True,Grocery,Bakery,,,,,
+CID:1435539659999470132,Safeway Bakery,"1305 s winchester blvd, san jose, ca 95117",safeway,0.0,0,(408) 340-9258,local.safeway.com,safeway,Safeway,37.3009158,-121.9518304,True,False,Bakery,,,,,,

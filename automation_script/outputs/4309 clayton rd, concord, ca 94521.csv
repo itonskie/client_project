@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13349088300579253399,Safeway,"4309 clayton rd, concord, ca 94521",safeway,4.2,968,(925) 356-2710,local.safeway.com,safeway,Safeway,37.9661267,-121.990716,True,True,Grocery,Bakery,,,,,
+CID:596114829290820872,Safeway Bakery,"4309 clayton rd, concord, ca 94521",safeway,0.0,0,(925) 356-2710,local.safeway.com,safeway,Safeway,37.9661551,-121.9907644,True,False,Bakery,,,,,,

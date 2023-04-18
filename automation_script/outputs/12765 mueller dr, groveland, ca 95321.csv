@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:100314909355561287,Pine Mountain Lake Country Club,"12765 mueller dr, groveland, ca 95321",pinemountainlake,4.3,197,(209) 962-8638,pinemountainlake.com,pinemountainlake,Pine Mountain Lake,37.8533333,-120.2177778,True,True,American,Bar,,,,,
+CID:10871726552557231038,Pine Mountain Lake Golf Course,"12765 mueller dr, groveland, ca 95321",pinemountainlake,4.6,121,(209) 962-8620,pinemountainlake.com,pinemountainlake,Pine Mountain Lake,37.8533333,-120.2177778,True,False,,Sporting Goods,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5286035159880772867,Safeway,"3320 arden way, sacramento, ca 95825",safeway,4.2,2367,(916) 483-9389,local.safeway.com,safeway,Safeway,38.5944326,-121.3866292,True,True,Grocery,Bakery,,,,,
+CID:1875002274841413811,Safeway Bakery,"3320 arden way, sacramento, ca 95825",safeway,0.0,0,(916) 483-9389,local.safeway.com,safeway,Safeway,38.594476,-121.3868593,True,False,Bakery,,,,,,

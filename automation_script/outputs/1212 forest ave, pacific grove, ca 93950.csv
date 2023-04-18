@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:6324533983101399169,Safeway,"1212 forest ave, pacific grove, ca 93950",safeway,4.0,1014,(831) 375-8262,local.safeway.com,safeway,Safeway,36.6048577,-121.9210704,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:1417429602547626364,Safeway Liquor,"1212 forest ave, pacific grove, ca 93950",safeway,5.0,1,,safeway.com,safeway,Safeway,36.6049109,-121.9212663,True,False,"Beer, Wine & Spirits",,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14506801793573237149,Safeway Liquor,"1020 johnson blvd, south lake tahoe, ca 96150",safeway,4.4,8,(530) 542-7740,safeway.com,safeway,Safeway,38.9443122,-119.9669804,True,True,"Beer, Wine & Spirits",Pharmacy,,,,,
+CID:13492526172513944428,"Adam R. Schweim, PharmD","1020 johnson blvd, south lake tahoe, ca 96150",safeway,0.0,0,(530) 542-7744,safeway.com,safeway,Safeway,38.9440786,-119.9672782,True,False,Pharmacy,,,,,,

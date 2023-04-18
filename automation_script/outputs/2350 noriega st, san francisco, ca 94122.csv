@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:8305571358446963426,Safeway,"2350 noriega st, san francisco, ca 94122",safeway,3.9,1095,(415) 665-4565,local.safeway.com,safeway,Safeway,37.754172,-122.4888173,True,True,Grocery,Bakery,,,,,
+CID:10421518030149428746,Safeway Bakery,"2350 noriega st, san francisco, ca 94122",safeway,0.0,0,(415) 665-4565,local.safeway.com,safeway,Safeway,37.7541085,-122.4888454,True,False,Bakery,,,,,,

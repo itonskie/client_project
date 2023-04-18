@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12855518949274088117,Safeway,"50 solano square, benicia, ca 94510",safeway,3.9,549,(707) 745-4047,local.safeway.com,safeway,Safeway,38.0547953,-122.1559283,True,True,Grocery,Bakery,,,,,
+CID:10690778927970335300,Safeway Bakery,"50 solano square, benicia, ca 94510",safeway,0.0,0,(707) 745-4047,local.safeway.com,safeway,Safeway,38.0548033,-122.1557116,True,False,Bakery,,,,,,

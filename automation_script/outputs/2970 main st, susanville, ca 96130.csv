@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1707926046144784092,Safeway,"2970 main st, susanville, ca 96130",safeway,3.9,559,(530) 257-2029,local.safeway.com,safeway,Safeway,40.4060049,-120.6345499,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:9257583640247548158,Safeway Liquor,"2970 main st, susanville, ca 96130",safeway,4.2,6,,safeway.com,safeway,Safeway,40.4058769,-120.6344624,True,False,"Beer, Wine & Spirits",,,,,,

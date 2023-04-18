@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1844618251055874712,Safeway,"1455 berryessa rd, san jose, ca 95133",safeway,4.5,626,(408) 346-6130,local.safeway.com,safeway,Safeway,37.370372,-121.881694,True,True,Grocery,Bakery,,,,,
+CID:12934416961791620517,Safeway Bakery,"1455 berryessa rd, san jose, ca 95133",safeway,4.0,2,(408) 346-6130,local.safeway.com,safeway,Safeway,37.3705562,-121.8817252,True,False,Bakery,,,,,,

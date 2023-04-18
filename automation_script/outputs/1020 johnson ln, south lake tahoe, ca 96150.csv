@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:15283090751929763867,Safeway,"1020 johnson ln, south lake tahoe, ca 96150",safeway,4.2,2100,(530) 542-7740,local.safeway.com,safeway,Safeway,38.9439724,-119.9673371,True,True,Grocery,Bakery,,,,,
+CID:124840887660961826,Safeway Bakery,"1020 johnson ln, south lake tahoe, ca 96150",safeway,0.0,0,(530) 542-7740,local.safeway.com,safeway,Safeway,38.939926,-119.9771868,True,False,Bakery,,,,,,

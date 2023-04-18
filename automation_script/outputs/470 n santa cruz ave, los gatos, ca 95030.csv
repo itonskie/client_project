@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:10340449277339860824,Safeway,"470 n santa cruz ave, los gatos, ca 95030",safeway,4.2,803,(408) 354-9708,local.safeway.com,safeway,Safeway,37.2314622,-121.9790846,True,True,Grocery,Bakery,,,,,
+CID:16829506253178800550,Safeway Bakery,"470 n santa cruz ave, los gatos, ca 95030",safeway,0.0,0,(408) 354-9708,local.safeway.com,safeway,Safeway,37.2315406,-121.9787758,True,False,Bakery,,,,,,

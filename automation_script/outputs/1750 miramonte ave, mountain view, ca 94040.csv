@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:14197024717894140085,Safeway,"1750 miramonte ave, mountain view, ca 94040",safeway,4.1,367,(650) 903-5850,local.safeway.com,safeway,Safeway,37.3723424,-122.0884411,True,True,Grocery,Bakery,,,,,
+CID:339717221151628814,Safeway Bakery,"1750 miramonte ave, mountain view, ca 94040",safeway,0.0,0,(650) 903-5850,local.safeway.com,safeway,Safeway,37.372433,-122.0884434,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4676111160725481377,Safeway,"231 w jackson st, hayward, ca 94544",safeway,3.8,1084,(510) 783-8611,local.safeway.com,safeway,Safeway,37.6526998,-122.0915008,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:4276262313445367334,Safeway Liquor,"231 w jackson st, hayward, ca 94544",safeway,4.5,2,,safeway.com,safeway,Safeway,37.6524304,-122.0915048,True,False,"Beer, Wine & Spirits",,,,,,
+CID:1553652819904175886,Safeway Bakery,"231 w jackson st, hayward, ca 94544",safeway,0.0,1,(510) 783-8611,local.safeway.com,safeway,Safeway,37.6527118,-122.0914671,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2066675656459005770,Safeway,"1380 linda mar shopping center, pacifica, ca 94044",safeway,4.1,1252,(650) 359-6707,local.safeway.com,safeway,Safeway,37.594446,-122.5029562,True,True,Grocery,Bakery,,,,,
+CID:16038433261724643543,Safeway Bakery,"1380 linda mar shopping center, pacifica, ca 94044",safeway,0.0,0,(650) 359-6707,local.safeway.com,safeway,Safeway,37.5945589,-122.5033024,True,False,Bakery,,,,,,

@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16630912113813450012,Safeway,"14922 olympic dr, clearlake, ca 95422",safeway,3.9,1131,(707) 994-7275,local.safeway.com,safeway,Safeway,38.9627409,-122.6318329,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:17160231467088340812,Safeway Liquor,"14922 olympic dr, clearlake, ca 95422",safeway,4.3,4,,safeway.com,safeway,Safeway,38.9627311,-122.6320808,True,False,"Beer, Wine & Spirits",,,,,,
+CID:12217490808160994444,Safeway Bakery,"14922 olympic dr, clearlake, ca 95422",safeway,1.0,1,(707) 994-7275,local.safeway.com,safeway,Safeway,38.9627584,-122.6318078,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4838513858730870992,Safeway,"774 admiral callaghan ln, vallejo, ca 94591",safeway,3.9,1267,(707) 554-8035,local.safeway.com,safeway,Safeway,38.1255108,-122.2266398,True,True,Grocery,Bakery,,,,,
+CID:12464496098543239894,Safeway Bakery,"774 admiral callaghan ln, vallejo, ca 94591",safeway,0.0,1,(707) 554-8035,local.safeway.com,safeway,Safeway,38.1252234,-122.2267441,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16142663731137338446,Safeway Liquor,"daly city, ca 94015",safeway,5.0,2,,,,Safeway,37.64664,-122.4518547,True,True,"Beer, Wine & Spirits",,,,,,
+CID:7453766679455610647,Safeway Liquor,"daly city, ca 94015",safeway,0.0,0,,safeway.com,safeway,Safeway,37.6997987,-122.4815738,True,False,"Beer, Wine & Spirits",,,,,,

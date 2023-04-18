@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9709760602322522927,Safeway,"7499 dublin blvd, dublin, ca 94568",safeway,4.2,1568,(925) 556-4034,local.safeway.com,safeway,Safeway,37.7060094,-121.9273886,True,True,Supermarket,Bakery,,,,,
+CID:3353012264955331362,Safeway Bakery,"7499 dublin blvd, dublin, ca 94568",safeway,0.0,0,(925) 556-4034,local.safeway.com,safeway,Safeway,37.7061604,-121.9274556,True,False,Bakery,,,,,,

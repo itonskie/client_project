@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16830942605538696363,Safeway,"2207 francisco dr, el dorado hills, ca 95762",safeway,4.3,836,(916) 939-9456,local.safeway.com,safeway,Safeway,38.7114317,-121.0840452,True,True,Grocery,Bakery,,,,,
+CID:14059709100451031454,Safeway Bakery,"2207 francisco dr, el dorado hills, ca 95762",safeway,0.0,0,(916) 939-9456,local.safeway.com,safeway,Safeway,38.7112977,-121.0841601,True,False,Bakery,,,,,,

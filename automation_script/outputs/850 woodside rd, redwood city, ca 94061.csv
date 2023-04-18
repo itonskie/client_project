@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:1739602071582267704,Safeway,"850 woodside rd, redwood city, ca 94061",safeway,4.0,845,(650) 365-2522,local.safeway.com,safeway,Safeway,37.46568,-122.2253797,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:15693173995243888449,Safeway Bakery,"850 woodside rd, redwood city, ca 94061",safeway,0.0,0,(650) 365-2522,local.safeway.com,safeway,Safeway,37.4656967,-122.2254144,True,False,Bakery,,,,,,
+CID:10343981029503398889,Safeway Liquor,"850 woodside rd, redwood city, ca 94061",safeway,0.0,0,,safeway.com,safeway,Safeway,37.4657544,-122.2255144,True,False,"Beer, Wine & Spirits",,,,,,

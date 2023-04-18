@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12936915109104090482,Safeway,"1444 shattuck pl, berkeley, ca 94709",safeway,4.0,1440,(510) 526-3086,local.safeway.com,safeway,Safeway,37.8807907,-122.2700198,True,True,Grocery,Bakery,,,,,
+CID:7119301697338437403,Safeway Bakery,"1444 shattuck pl, berkeley, ca 94709",safeway,5.0,3,(510) 526-3086,local.safeway.com,safeway,Safeway,37.8808073,-122.2700854,True,False,Bakery,,,,,,

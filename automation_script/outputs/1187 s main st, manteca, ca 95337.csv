@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16649639211341176324,Safeway,"1187 s main st, manteca, ca 95337",safeway,4.2,1257,(209) 824-1144,local.safeway.com,safeway,Safeway,37.7866315,-121.2187526,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:7538268903588121678,Safeway Liquor,"1187 s main st, manteca, ca 95337",safeway,0.0,0,,safeway.com,safeway,Safeway,37.7867183,-121.219122,True,False,"Beer, Wine & Spirits",,,,,,
+CID:6131915990663077685,Safeway Bakery,"1187 s main st, manteca, ca 95337",safeway,0.0,0,(209) 824-1144,local.safeway.com,safeway,Safeway,37.7867336,-121.2188396,True,False,Bakery,,,,,,

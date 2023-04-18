@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13390012758805448394,Safeway,"20629 redwood rd, castro valley, ca 94546",safeway,4.0,1375,(510) 538-3088,local.safeway.com,safeway,Safeway,37.6964207,-122.0751464,True,True,Grocery,Bakery,,,,,
+CID:9254335242135237308,Safeway Bakery,"20629 redwood rd, castro valley, ca 94546",safeway,0.0,0,(510) 538-3088,local.safeway.com,safeway,Safeway,37.6962834,-122.0749241,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9137691415120047059,Safeway,"1366 east ave, chico, ca 95926",safeway,4.2,1256,(530) 899-2320,local.safeway.com,safeway,Safeway,39.7623885,-121.8225505,True,True,Grocery,Bakery,,,,,
+CID:15201431834812044544,Safeway Bakery,"1366 east ave, chico, ca 95926",safeway,0.0,0,(530) 899-2320,local.safeway.com,safeway,Safeway,39.762403,-121.8227208,True,False,Bakery,,,,,,

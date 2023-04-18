@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:54502168899234170,Safeway Liquor,"525 el camino real, menlo park, ca 94025",safeway,4.0,7,,safeway.com,safeway,Safeway,37.4503524,-122.179344,True,True,"Beer, Wine & Spirits",Bakery,,,,,
+CID:13256032684494489836,Safeway Bakery,"525 el camino real, menlo park, ca 94025",safeway,0.0,0,(650) 847-2901,local.safeway.com,safeway,Safeway,37.450572,-122.1790228,True,False,Bakery,,,,,,

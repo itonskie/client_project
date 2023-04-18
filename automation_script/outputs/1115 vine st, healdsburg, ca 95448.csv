@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:17174689434417254174,Safeway,"1115 vine st, healdsburg, ca 95448",safeway,4.1,673,(707) 431-7102,local.safeway.com,safeway,Safeway,38.6091746,-122.8734112,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:12129606117255695996,Safeway Liquor,"1115 vine st, healdsburg, ca 95448",safeway,4.5,2,,safeway.com,safeway,Safeway,38.6092471,-122.8734879,True,False,"Beer, Wine & Spirits",,,,,,
+CID:2850016295465821421,Safeway Bakery,"1115 vine st, healdsburg, ca 95448",safeway,0.0,0,(707) 431-7102,local.safeway.com,safeway,Safeway,38.6092863,-122.8732254,True,False,Bakery,,,,,,

@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2079985808272097179,Safeway,"10635 folsom blvd, rancho cordova, ca 95670",safeway,4.2,2195,(916) 364-4940,local.safeway.com,safeway,Safeway,38.5953415,-121.2933838,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:3281416302343521706,Safeway Liquor,"10635 folsom blvd, rancho cordova, ca 95670",safeway,5.0,2,,safeway.com,safeway,Safeway,38.5953685,-121.2937756,True,False,"Beer, Wine & Spirits",,,,,,

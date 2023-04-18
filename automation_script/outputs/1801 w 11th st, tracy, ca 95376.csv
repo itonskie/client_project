@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2485384604850488874,Safeway,"1801 w 11th st, tracy, ca 95376",safeway,4.2,1284,(209) 830-2950,local.safeway.com,safeway,Safeway,37.740178,-121.4494794,True,True,Grocery,Bakery,,,,,
+CID:7865790373212233405,Safeway Bakery,"1801 w 11th st, tracy, ca 95376",safeway,0.0,0,(209) 830-2950,local.safeway.com,safeway,Safeway,37.7400828,-121.4493674,True,False,Bakery,,,,,,

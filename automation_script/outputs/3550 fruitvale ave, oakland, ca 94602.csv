@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5720051665561549297,Safeway,"3550 fruitvale ave, oakland, ca 94602",safeway,4.1,1678,(510) 530-7067,local.safeway.com,safeway,Safeway,37.8013289,-122.2154864,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:4094865093169495918,Safeway Liquor,"3550 fruitvale ave, oakland, ca 94602",safeway,4.3,6,(510) 530-7067,safeway.com,safeway,Safeway,37.8014543,-122.2152666,True,False,"Beer, Wine & Spirits",,,,,,

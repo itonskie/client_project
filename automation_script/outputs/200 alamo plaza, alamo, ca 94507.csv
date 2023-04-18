@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:4016382334400536281,Safeway,"200 alamo plaza, alamo, ca 94507",safeway,4.1,347,(925) 820-8022,local.safeway.com,safeway,Safeway,37.8507636,-122.0350826,True,True,Grocery,Bakery,,,,,
+CID:10478718159865799483,Safeway Bakery,"200 alamo plaza, alamo, ca 94507",safeway,0.0,0,(925) 820-8022,local.safeway.com,safeway,Safeway,37.8508355,-122.035163,True,False,Bakery,,,,,,

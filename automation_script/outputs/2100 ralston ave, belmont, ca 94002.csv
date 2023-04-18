@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:3078906542530114234,Safeway,"2100 ralston ave, belmont, ca 94002",safeway,3.9,487,(650) 591-0235,local.safeway.com,safeway,Safeway,37.512294,-122.2956223,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:13357146224415988821,Safeway Liquor,"2100 ralston ave, belmont, ca 94002",safeway,4.4,6,,safeway.com,safeway,Safeway,37.5124108,-122.2955237,True,False,"Beer, Wine & Spirits",,,,,,

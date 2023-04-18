@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:17214366698717106280,Safeway,"4440 tassajara rd, dublin, ca 94568",safeway,4.2,858,(925) 551-4710,local.safeway.com,safeway,Safeway,37.7066902,-121.874053,True,True,Grocery,Bakery,,,,,
+CID:18435077705946318108,Safeway Bakery,"4440 tassajara rd, dublin, ca 94568",safeway,0.0,0,(925) 551-4710,local.safeway.com,safeway,Safeway,37.7066995,-121.8741391,True,False,Bakery,,,,,,

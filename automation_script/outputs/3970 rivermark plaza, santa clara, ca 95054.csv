@@ -1,0 +1,6 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11657882816547379422,Safeway,"3970 rivermark plaza, santa clara, ca 95054",safeway,4.3,2897,(408) 855-0980,local.safeway.com,safeway,Safeway,37.394745,-121.947634,True,True,Grocery,Bakery,Deli,"Beer, Wine & Spirits",Pharmacy,,
+CID:17164644721565828834,Safeway Liquor,"3970 rivermark plaza, santa clara, ca 95054",safeway,2.6,5,(408) 855-0980,safeway.com,safeway,Safeway,37.3945639,-121.947654,True,False,"Beer, Wine & Spirits",,,,,,
+CID:6241133840896038962,Safeway Deli,"3970 rivermark plaza, santa clara, ca 95054",safeway,3.8,4,(408) 855-0980,local.safeway.com,safeway,Safeway,37.3947357,-121.9476323,True,False,Deli,,,,,,
+CID:12901682764212961567,Safeway Bakery,"3970 rivermark plaza, santa clara, ca 95054",safeway,1.0,2,(408) 855-0980,local.safeway.com,safeway,Safeway,37.3947253,-121.9475777,True,False,Bakery,,,,,,
+CID:15674674609143556985,"Wayne Chan, Pharm","3970 rivermark plaza, santa clara, ca 95054",safeway,0.0,0,(408) 855-0985,safeway.com,safeway,Safeway,37.3948124,-121.9476584,True,False,Pharmacy,,,,,,

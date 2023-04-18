@@ -1,0 +1,5 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11267351929120469898,Safeway,"730 taraval st, san francisco, ca 94116",safeway,3.9,1026,(415) 665-4136,local.safeway.com,safeway,Safeway,37.7434468,-122.4740564,True,True,Grocery,Bakery,Deli,"Beer, Wine & Spirits",,,
+CID:17785518829300403854,Safeway Liquor,"730 taraval st, san francisco, ca 94116",safeway,5.0,2,,safeway.com,safeway,Safeway,37.7432371,-122.4744875,True,False,"Beer, Wine & Spirits",,,,,,
+CID:4669634506906502525,Safeway Bakery,"730 taraval st, san francisco, ca 94116",safeway,0.0,0,(415) 665-4136,local.safeway.com,safeway,Safeway,37.7434468,-122.4740564,True,False,Bakery,,,,,,
+CID:17731378293740751839,Safeway Ready Meals,"730 taraval st, san francisco, ca 94116",safeway,0.0,0,,local.safeway.com,safeway,Safeway,37.7434468,-122.4740564,True,False,Deli,,,,,,

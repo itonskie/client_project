@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16664182386973653060,Safeway,"2980 e capitol expy, san jose, ca 95148",safeway,4.0,1941,(408) 274-5957,local.safeway.com,safeway,Safeway,37.3313923,-121.8108365,True,True,Grocery,Bakery,,,,,
+CID:8008376523421605636,Safeway Bakery,"2980 e capitol expy, san jose, ca 95148",safeway,0.0,0,(408) 274-5957,local.safeway.com,safeway,Safeway,37.3313739,-121.8109862,True,False,Bakery,,,,,,

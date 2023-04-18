@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12359277607867074288,Safeway,"298 king st, san francisco, ca 94107",safeway,3.9,1533,(415) 633-1001,local.safeway.com,safeway,Safeway,37.7767786,-122.3940717,True,True,Grocery,Bakery,,,,,
+CID:13779679202761108536,Safeway Bakery,"298 king st, san francisco, ca 94107",safeway,3.3,3,(415) 633-1001,local.safeway.com,safeway,Safeway,37.7766659,-122.3941226,True,False,Bakery,,,,,,

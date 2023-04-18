@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:18274686726383102334,Safeway,"1503 city center rd, mckinleyville, ca 95519",safeway,3.9,692,(707) 840-9770,local.safeway.com,safeway,Safeway,40.9436404,-124.1031323,True,True,Grocery,Bakery,,,,,
+CID:5549394023084937934,Safeway Bakery,"1503 city center rd, mckinleyville, ca 95519",safeway,4.0,1,(707) 840-9770,local.safeway.com,safeway,Safeway,40.9438725,-124.1028492,True,False,Bakery,,,,,,

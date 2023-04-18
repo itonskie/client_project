@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12249894829292093996,Safeway,"3380 coach ln, cameron park, ca 95682",safeway,4.1,1090,(530) 676-6930,local.safeway.com,safeway,Safeway,38.6564391,-120.9710759,True,True,Grocery,Bakery,,,,,
+CID:1076532118465069423,Safeway Bakery,"3380 coach ln, cameron park, ca 95682",safeway,0.0,0,(530) 676-6930,local.safeway.com,safeway,Safeway,38.6567667,-120.9708068,True,False,Bakery,,,,,,

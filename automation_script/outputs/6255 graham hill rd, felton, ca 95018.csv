@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:15325133991097830342,Safeway,"6255 graham hill rd, felton, ca 95018",safeway,3.9,544,(831) 335-3532,local.safeway.com,safeway,Safeway,37.0529651,-122.0687549,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:1730424440723044984,Safeway Liquor,"6255 graham hill rd, felton, ca 95018",safeway,4.4,7,(831) 335-3532,safeway.com,safeway,Safeway,37.0529401,-122.068786,True,False,"Beer, Wine & Spirits",,,,,,

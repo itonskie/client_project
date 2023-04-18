@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:12738412755810330149,Safeway,"14840 ca-4, discovery bay, ca 94505",safeway,4.2,679,(925) 626-6000,local.safeway.com,safeway,Safeway,37.8907004,-121.6215187,True,True,Grocery,Bakery,,,,,
+CID:17322283492448769942,Safeway Bakery,"14840 ca-4, discovery bay, ca 94505",safeway,0.0,0,(925) 626-6000,local.safeway.com,safeway,Safeway,37.8905438,-121.6213134,True,False,Bakery,,,,,,

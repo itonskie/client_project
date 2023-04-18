@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:10229744042245931017,Safeway,"103 american canyon rd, american canyon, ca 94503",safeway,4.1,1653,(707) 649-5150,local.safeway.com,safeway,Safeway,38.1646328,-122.2550382,True,True,Grocery,Bakery,,,,,
+CID:13718747012443450493,Safeway Bakery,"103 american canyon rd, american canyon, ca 94503",safeway,0.0,0,(707) 649-5150,local.safeway.com,safeway,Safeway,38.1646336,-122.2550716,True,False,Bakery,,,,,,

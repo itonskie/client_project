@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:9805466972530800196,Safeway,"9045 woodcreek oaks blvd, roseville, ca 95747",safeway,4.3,702,(916) 780-9919,local.safeway.com,safeway,Safeway,38.7940697,-121.3306502,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:13460669926320723154,Safeway Liquor,"9045 woodcreek oaks blvd, roseville, ca 95747",safeway,0.0,0,,safeway.com,safeway,Safeway,38.7940236,-121.330675,True,False,"Beer, Wine & Spirits",,,,,,

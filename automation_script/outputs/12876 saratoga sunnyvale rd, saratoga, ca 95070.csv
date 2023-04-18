@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7567576541673315978,Safeway,"12876 saratoga sunnyvale rd, saratoga, ca 95070",safeway,4.2,595,(408) 867-0180,local.safeway.com,safeway,Safeway,37.2812192,-122.03125,True,True,Grocery,Bakery,,,,,
+CID:6435083560829658652,Safeway Bakery,"12876 saratoga sunnyvale rd, saratoga, ca 95070",safeway,0.0,0,(408) 867-0180,local.safeway.com,safeway,Safeway,37.2813058,-122.0311493,True,False,Bakery,,,,,,

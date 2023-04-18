@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7011026764168242514,Safeway,"1125 2nd st, brentwood, ca 94513",safeway,4.1,678,(925) 634-6780,local.safeway.com,safeway,Safeway,37.9358241,-121.699179,True,True,Grocery,Bakery,,,,,
+CID:18064004074928917190,Safeway Bakery,"1125 2nd st, brentwood, ca 94513",safeway,0.0,0,(925) 634-6780,local.safeway.com,safeway,Safeway,37.9358834,-121.6991489,True,False,Bakery,,,,,,

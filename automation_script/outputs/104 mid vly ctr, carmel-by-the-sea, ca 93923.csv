@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:3173781074187505497,Safeway,"104 mid vly ctr, carmel-by-the-sea, ca 93923",safeway,4.2,200,(831) 624-4600,local.safeway.com,safeway,Safeway,36.5224731,-121.810205,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:15859298437494870343,Safeway Liquor,"104 mid vly ctr, carmel-by-the-sea, ca 93923",safeway,0.0,0,,safeway.com,safeway,Safeway,36.5225281,-121.8101227,True,False,"Beer, Wine & Spirits",,,,,,

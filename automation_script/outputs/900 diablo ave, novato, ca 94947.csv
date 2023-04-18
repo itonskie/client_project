@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5442781682488466411,Safeway,"900 diablo ave, novato, ca 94947",safeway,4.1,625,(415) 898-1503,local.safeway.com,safeway,Safeway,38.1037625,-122.5714639,True,True,Grocery,Bakery,,,,,
+CID:8009920164797271154,Safeway Bakery,"900 diablo ave, novato, ca 94947",safeway,0.0,0,(415) 898-1503,local.safeway.com,safeway,Safeway,38.1037808,-122.5716519,True,False,Bakery,,,,,,

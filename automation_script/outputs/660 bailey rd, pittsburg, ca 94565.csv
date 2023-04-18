@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2735409404337909786,Safeway,"660 bailey rd, pittsburg, ca 94565",safeway,3.9,1355,(925) 458-0181,local.safeway.com,safeway,Safeway,38.0160881,-121.9435322,True,True,Grocery,Bakery,,,,,
+CID:2941952943182314340,Safeway Bakery,"660 bailey rd, pittsburg, ca 94565",safeway,1.0,2,(925) 458-0181,local.safeway.com,safeway,Safeway,38.0160585,-121.9434892,True,False,Bakery,,,,,,

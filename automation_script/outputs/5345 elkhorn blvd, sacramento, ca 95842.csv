@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:2804929239761314266,Safeway,"5345 elkhorn blvd, sacramento, ca 95842",safeway,4.0,1950,(916) 331-2987,local.safeway.com,safeway,Safeway,38.6864094,-121.3394634,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:15444653615363636460,Safeway Liquor,"5345 elkhorn blvd, sacramento, ca 95842",safeway,4.2,49,(916) 331-2987,safeway.com,safeway,Safeway,38.6862816,-121.3395263,True,False,"Beer, Wine & Spirits",,,,,,
+CID:6901418876632896214,Safeway Bakery,"5345 elkhorn blvd, sacramento, ca 95842",safeway,0.0,1,(916) 331-2987,local.safeway.com,safeway,Safeway,38.6864264,-121.33942,True,False,Bakery,Deli,Grocery,,,,

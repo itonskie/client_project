@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:5172455489502007124,Safeway,"2808 country club blvd, stockton, ca 95204",safeway,4.1,2156,(209) 461-5555,local.safeway.com,safeway,Safeway,37.9623635,-121.3374098,True,True,Grocery,Bakery,,,,,
+CID:4370472220913993614,Safeway Bakery,"2808 country club blvd, stockton, ca 95204",safeway,0.0,1,(209) 461-5555,local.safeway.com,safeway,Safeway,37.9621934,-121.3374683,True,False,Bakery,,,,,,

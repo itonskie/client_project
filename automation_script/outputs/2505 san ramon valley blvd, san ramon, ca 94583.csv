@@ -1,0 +1,4 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:11389913802419461797,Safeway,"2505 san ramon valley blvd, san ramon, ca 94583",safeway,4.2,734,(925) 831-9515,local.safeway.com,safeway,Safeway,37.7731741,-121.9767038,True,True,Grocery,Bakery,"Beer, Wine & Spirits",,,,
+CID:8948434333356037352,Safeway Liquor,"2505 san ramon valley blvd, san ramon, ca 94583",safeway,4.5,2,(925) 831-9515,safeway.com,safeway,Safeway,37.773249,-121.9769516,True,False,"Beer, Wine & Spirits",,,,,,
+CID:12873286150463885643,Safeway Bakery,"2505 san ramon valley blvd, san ramon, ca 94583",safeway,0.0,0,(925) 831-9515,local.safeway.com,safeway,Safeway,37.7735998,-121.9777291,True,False,Bakery,,,,,,

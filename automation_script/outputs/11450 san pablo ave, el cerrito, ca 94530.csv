@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:7571515445167525509,Safeway,"11450 san pablo ave, el cerrito, ca 94530",safeway,4.0,2580,(510) 233-8400,local.safeway.com,safeway,Safeway,37.922367,-122.3154715,True,True,Grocery,Bakery,,,,,
+CID:17781892083476711763,Safeway Bakery,"11450 san pablo ave, el cerrito, ca 94530",safeway,5.0,1,(510) 233-8400,local.safeway.com,safeway,Safeway,37.9225409,-122.3157449,True,False,Bakery,,,,,,

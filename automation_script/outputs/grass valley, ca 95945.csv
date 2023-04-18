@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:6128783723699964269,Safeway Liquor,"grass valley, ca 95945",safeway,2.0,1,,safeway.com,safeway,Safeway,39.2355769,-121.0322558,True,True,"Beer, Wine & Spirits",,,,,,
+CID:1324251685732021276,Safeway Liquor,"grass valley, ca 95945",safeway,4.0,1,,safeway.com,safeway,Safeway,39.2160474,-121.0628019,True,False,"Beer, Wine & Spirits",,,,,,

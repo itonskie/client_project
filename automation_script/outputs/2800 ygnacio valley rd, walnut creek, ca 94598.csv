@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:897165307662195947,Safeway,"2800 ygnacio valley rd, walnut creek, ca 94598",safeway,4.4,931,(925) 948-2283,local.safeway.com,safeway,Safeway,37.9272484,-122.0185483,True,True,Grocery,Bakery,,,,,
+CID:2901854975636037917,Safeway Bakery,"2800 ygnacio valley rd, walnut creek, ca 94598",safeway,0.0,0,(925) 948-2283,local.safeway.com,safeway,Safeway,37.9274128,-122.0185691,True,False,Bakery,,,,,,

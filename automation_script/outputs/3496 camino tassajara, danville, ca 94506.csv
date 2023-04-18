@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:13248133421523637861,Safeway,"3496 camino tassajara, danville, ca 94506",safeway,4.2,363,(925) 736-0298,local.safeway.com,safeway,Safeway,37.7980836,-121.9177857,True,True,Grocery,Bakery,,,,,
+CID:17796935164962689017,Safeway Bakery,"3496 camino tassajara, danville, ca 94506",safeway,0.0,0,(925) 736-0298,local.safeway.com,safeway,Safeway,37.7975558,-121.9175117,True,False,Bakery,,,,,,

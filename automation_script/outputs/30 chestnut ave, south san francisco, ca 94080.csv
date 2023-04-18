@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16483995163752844027,Safeway,"30 chestnut ave, south san francisco, ca 94080",safeway,3.9,1278,(650) 952-8867,local.safeway.com,safeway,Safeway,37.6555557,-122.4316232,True,True,Grocery,"Beer, Wine & Spirits",,,,,
+CID:4183899870589893929,Safeway Liquor,"30 chestnut ave, south san francisco, ca 94080",safeway,4.1,7,(650) 952-8867,safeway.com,safeway,Safeway,37.6556023,-122.4316432,True,False,"Beer, Wine & Spirits",,,,,,

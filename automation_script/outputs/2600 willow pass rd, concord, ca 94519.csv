@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:66962991535147308,Safeway,"2600 willow pass rd, concord, ca 94519",safeway,4.0,1931,(925) 689-3240,local.safeway.com,safeway,Safeway,37.9781879,-122.0280829,True,True,Grocery,Bakery,,,,,
+CID:3267388196968957829,Safeway Bakery,"2600 willow pass rd, concord, ca 94519",safeway,0.0,0,(925) 689-3240,local.safeway.com,safeway,Safeway,37.9781215,-122.0281614,True,False,Bakery,,,,,,

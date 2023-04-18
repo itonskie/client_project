@@ -1,0 +1,3 @@
+listing_id,business_name,address,orgid,Rating,Rating Count,phone,website,domain,chain_name,lat,lon,in_chain,in_search,Category1,Category2,Category3,Category4,Category5,Category6,Category7
+CID:16592935960084670,Safeway,"3110 balfour rd, brentwood, ca 94513",safeway,4.4,828,(925) 626-6020,local.safeway.com,safeway,Safeway,37.9239947,-121.7218519,True,True,Grocery,Bakery,,,,,
+CID:3124941219142260986,Safeway Bakery,"3110 balfour rd, brentwood, ca 94513",safeway,0.0,0,(925) 626-6020,local.safeway.com,safeway,Safeway,37.9240775,-121.7218615,True,False,Bakery,,,,,,
